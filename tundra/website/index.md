@@ -14,6 +14,8 @@ title: Тундра-Х
 
 Второй курс: 14202
 ==================
+[Правила учета успеваемости]({{ site.baseurl }}/oop_rules.html)
+
 ### Задачи
   1. [Словарь](https://docs.google.com/document/d/1k_4QGSzf444w1BP59U0nQ1olS2QoZMrvObeH1XbUkJc/edit?usp=sharing)  
      Контрольный срок: 30.09, крайний срок: 7 октября.
